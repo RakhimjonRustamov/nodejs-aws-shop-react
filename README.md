@@ -46,4 +46,4 @@ Runs linting and formatting for all files in `src` folder.
 ### Task 2.3
 
 - [Cloudfront URL](https://doyd4m450pgxo.cloudfront.net/)
-- **S3 Bucket URL** not provided due to bucket policy and cloudfront changes
+- [S3 Bucket URL](https://rr-aws-spa-automated.s3.eu-central-1.amazonaws.com/) Access Denied due to bucket policy and cloudfront changes
