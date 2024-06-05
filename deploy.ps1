@@ -1,3 +1,5 @@
+# Used to update Application Resources  
+
 # Run npm run build
 Write-Host "Building web application..."
 npm run build

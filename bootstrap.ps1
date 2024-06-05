@@ -1,3 +1,5 @@
+    # Used for initial Deployment of Application 
+
     # Run npm run build
     Write-Host "Building web application..."
     npm run build
